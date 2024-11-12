@@ -1,2 +1,1 @@
-# bookbot
-Bootdev bookbot guided project repo
+BookBot is my first project!
